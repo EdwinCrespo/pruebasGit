@@ -1,1 +1,0 @@
-### Se puede saltar el area de preparacion
